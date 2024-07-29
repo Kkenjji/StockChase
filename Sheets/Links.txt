@@ -1,0 +1,5 @@
+BookstoreDataset:
+https://docs.google.com/spreadsheets/d/1gIYgG1lFh0hDAfY2iZ0U54QS36Q6On14avJuVbTEx1k/edit?usp=sharing
+
+Inventory database:
+https://docs.google.com/spreadsheets/d/1BmL8vqnrGGzFT-ZY0sGJ8MAAc3PfEVePgOPAn9xA8rs/edit?usp=sharing
